@@ -12,3 +12,4 @@ Requisites
 - LED & PC Must be on the Same WiFi Network
 - You may test by Executing WiZ.py in VS Code after Installing Packages (As Mentioned in PIP-Install.py) before PyInstall
 
+<img width="351" height="305" alt="image" src="https://github.com/user-attachments/assets/466128d5-0521-4911-859a-46d5a431269c" />
