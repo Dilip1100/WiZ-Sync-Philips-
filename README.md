@@ -3,7 +3,7 @@ WiZ-Sync-Philips-
 WiZ Enabled LED Color Sync Application for PC (No Additional Hardware) 
 
 - STEP 1 - In VS Code, Paste Contents of PIP-Install.py and Install the Packages Required 
-- STEP 2 - In VS Code, Open WiZ.py & Save it in "Downloads" Folder 
+- STEP 2 - In VS Code, Open WiZ.py & Save it in "Downloads" Folder along with KK.ico Image for Icon
 - Step 3 - Run PyInstaller to Generate EXE (Paste Contents of EXE Generator.py)
 - Step 4 - Now, Your Wiz Enabled Devices Must Sync with PC Screen Color 
 
